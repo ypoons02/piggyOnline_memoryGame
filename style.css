@@ -1,0 +1,131 @@
+body{
+  background-color: lightgrey;
+}
+
+main{
+  margin:10%;
+  background-color: white;
+}
+
+header {
+  width: 100%;
+  background-color: white;
+  text-align: center;
+}
+
+header img {
+  width: 20%;
+  height: 20%;
+  display: inline-block;
+  vertical-align: top;
+  margin:0;
+  float: left;
+}
+
+.companySlogan {
+  text-align: center;
+  display: inline-block;
+}
+
+.companySlogan h1{
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 700%;
+  margin: 0px;
+}
+
+.companySlogan h4{
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 125%;
+  margin:0px;
+  margin-top: 5px;
+  text-align: right;
+  vertical-align: bottom;
+}
+
+.companySlogan h1, h4 {
+  vertical-align:middle;
+}
+
+
+.center {
+  padding-top: 5%;
+  text-align: center;
+  font-family:monospace;
+  font-stretch: semi-condensed;
+}
+
+footer{
+  text-align: center;
+  margin: 10%;
+  padding: 5%;
+}
+
+#myCanvas {
+/*  background: #F8F8FF;*/
+}
+
+#announce {
+  font-size: 25px;
+  font-family:sans-serif;
+  padding-bottom: 10px;
+}
+
+.P1, .P2 {
+  display: inline-block;
+  vertical-align: top;
+  padding: 1px;
+}
+
+.P1 {
+  background-color: purple;
+  color: white;
+  padding: 1px;
+}
+
+.P2{
+  background-color: white;
+  color:grey;
+  padding: 1px;
+}
+
+#reset {
+    background-color: lightpink;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 10px;
+}
+
+#reset:hover, #sound:hover {
+  background-color: lightgrey;
+  color: grey;
+}
+
+select{
+  background-color: purple;
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  width: 100px;
+  height: 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 10px;
+}
+
+
+#sound{
+  background-color: lightgrey;
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  width: 100px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 10px;
+}
