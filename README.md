@@ -13,8 +13,6 @@ https://ypoons02.github.io/piggyOnline_memoryGame/
 <h2>Rules:</h2> 
 <ul>
 <li>Players have less than a second to look at the cards.</li>
-<li>To score, player must select the same pair of cards (picture) on the board.</li> 
-<li>
+<li>To score, player must select the same pair of cards (picture) on the board:</li> 
 <li>Correct match: Player can continue to select the cards and scoring.</li>
 <li>Incorrect match: Another player’s turn. </li>
-</li>
